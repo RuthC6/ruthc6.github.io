@@ -27,7 +27,7 @@ url: "https://ruthc6.github.io" # the base hostname & protocol for your site, e.
 domain: ruthc6.github.io
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
